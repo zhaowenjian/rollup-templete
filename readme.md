@@ -1,0 +1,1 @@
+### templete for libiary by rollup
